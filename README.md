@@ -108,9 +108,3 @@ curl -X POST http://localhost:5010/invocations \
 - Integrate with a front-end dashboard  
 - Try XGBoost and LightGBM for performance comparison  
 - Add multi-metric optimization with Optuna
-
----
-
-## ✨ Acknowledgements
-
-Thanks to **Bahçeşehir University**, our instructor **Gökşin Bakır**, and the creators of **MLflow** for making this hands-on MLOps project possible.
