@@ -1,6 +1,9 @@
 # Smart Logistics MLflow Project 🚚📦
 
-This project presents a complete end-to-end MLOps pipeline using **MLflow** to manage the machine learning lifecycle for a real-world logistics dataset from **Delhivery**. The main goal is to build, tune, serve, and monitor a model that can **predict the actual delivery time** of shipments.
+This project presents a complete end-to-end MLOps pipeline using **MLflow** to manage the machine learning lifecycle for a real-world logistics dataset from **Delhivery** from **Kaggle**. The main goal is to build, tune, serve, and monitor a model that can **predict the actual delivery time** of shipments.
+
+You can access the dataset from the link above:
+https://www.kaggle.com/datasets/devarajv88/delhivery-logistics-dataset
 
 ---
 
